@@ -39,10 +39,19 @@ hr {
   opacity: 25%;
 }
 
+.songwriter {
+  margin: auto;
+  position: relative;
+  top: 50px;
+  bottom: 0px;
+  width: 15%;
+}
+
 .top-container {
   background-color: #e3fdfd;
   position: relative;
   padding-top: 150px;
+  height: 650px;
 }
 
 .middle-container {
